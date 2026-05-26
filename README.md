@@ -30,7 +30,7 @@ A repository dedicated to solving complex, real-world business problems across d
 
 ## Featured Case Studies
 
-* **1. Case Study Name 1: e.g., OYO Business Growth Analysis** 
+**1. Case Study Name 1: e.g., OYO Business Growth Analysis** 
 
 Business Problem: The executive team wants to identify seasonal hotel booking trends, high-churn customer segments, and revenue leakages across different cities.
 
@@ -40,7 +40,7 @@ Key Achievements:
 
 * Formulated customer lifetime value (CLV) segments using NTILE().
 
-* **2. Case Study Name 2: e.g., Banking & Credit Card Analytics**
+**2. Case Study Name 2: e.g., Banking & Credit Card Analytics**
 
 Business Problem: Detecting anomalous high-value transactions and identifying spending habits of top-tier credit card users to optimize rewards programs.
 
